@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Self-Signed CA
+navtitle: Self-Signed CA
+title: Worksheet 1: Self-Signed CA Certificate Profile
 permalink: profiles/selfsignedca/
 ---
 
