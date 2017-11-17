@@ -5,8 +5,6 @@ title: Worksheet 1 - Self-Signed CA Certificate Profile
 permalink: profiles/selfsignedca/
 ---
 
-## Worksheet 1:&nbsp;&nbsp;Self-Signed CA Certificate Profile
-
 | **Field** |       |       | **Value**                             |
 | :-------- | :---: | :---: | :-------------------------------     |
 | Version   |       |       | V3 (2)                                 |

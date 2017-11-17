@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Common End Entity Signature
+navtitle: Common End Entity Signature
+title: Worksheet 7 - Common End Entity Signature Certificate Profile
 permalink: profiles/commonendentitysign/
 ---
-
-## Worksheet 7:&nbsp;&nbsp;Common End Entity Signature Certificate Profile
 
 | **Field** |       |       | **Value**                             |
 | :-------- | :---: | :---: | :-------------------------------     |

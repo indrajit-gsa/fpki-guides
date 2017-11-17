@@ -1,10 +1,9 @@
 ---
 layout: default
-title: End Entity Signature
+navtitle: End Entity Signature
+title: Worksheet 6 - End Entity Signature Certificate Profile
 permalink: profiles/endentitysignature/
 ---
-
-## Worksheet 6:&nbsp;&nbsp;End Entity Signature Certificate Profile
 
 | **Field** |       |       | **Value**                             |
 | :-------- | :---: | :---: | :-------------------------------     |

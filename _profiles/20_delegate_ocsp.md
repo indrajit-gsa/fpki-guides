@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Delegate OCSP Responder
+navtitle: Delegate OCSP Responder
+title: Worksheet 20 - Delegate OCSP Responder Certificate Profile
 permalink: profiles/delegateocsp/
 ---
-
-## Worksheet 20:&nbsp;&nbsp;Delegate OCSP Responder Certificate Profile
 
 | **Field** |       |       | **Value**                             |
 | :-------- | :---: | :---: | :-------------------------------     |

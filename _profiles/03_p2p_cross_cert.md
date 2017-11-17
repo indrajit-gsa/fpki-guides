@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Peer-to-Peer Cross-Certicate
+navtitle: Peer-to-Peer Cross-Certicate
+title: Worksheet 3 - Peer-to-Peer Cross-Certificate Profile
 permalink: profiles/p2pcrosscert/
 ---
-
-## Worksheet 3:&nbsp;&nbsp;Peer-to-Peer Cross-Certificate Profile
 
 | **Field** |       |       | **Value**                             |
 | :-------- | :---: | :---: | :-------------------------------     |

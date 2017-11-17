@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Key Rollover CA
+navtitle: Key Rollover CA
+title: Worksheet 2 - Key Rollover CA Certificate Profile
 permalink: profiles/keyrollover/
 ---
-
-## Worksheet 2:&nbsp;&nbsp;Key Rollover CA Certificate Profile
 
 | **Field** |       |       | **Value**                             |
 | :-------- | :---: | :---: | :-------------------------------     |

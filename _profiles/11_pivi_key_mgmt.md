@@ -1,10 +1,9 @@
 ---
 layout: default
-title: PIV-I Key Management
+navtitle: PIV-I Key Management
+title: Worksheet 11 - PIV-I Key Management Certificate Profile
 permalink: /_profiles/pivikeymgmt/
 ---
-
-## Worksheet 11:&nbsp;&nbsp;PIV-I Key Management Certificate Profile
 
 | **Field** |       |       | **Value**                             |
 | :-------- | :---: | :---: | :-------------------------------     |

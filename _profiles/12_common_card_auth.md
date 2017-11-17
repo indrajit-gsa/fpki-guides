@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Common Card Authentication
+navtitle: Common Card Authentication
+title: Worksheet 12 - Common Card Authentication Certificate Profile
 permalink: profiles/commoncardauth/
 ---
-
-## Worksheet 12:&nbsp;&nbsp;Common Card Authentication Certificate Profile
 
 | **Field** |       |       | **Value**                             |
 | :-------- | :---: | :---: | :-------------------------------     |

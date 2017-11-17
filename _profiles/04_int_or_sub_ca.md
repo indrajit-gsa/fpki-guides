@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Intermediate or Subordinate CA
+navtitle: Intermediate or Subordinate CA
+title: Worksheet 4 - Intermediate or Subordinate CA Certificate Profile
 permalink: profiles/intorsubca/
 ---
-
-## Worksheet 4:&nbsp;&nbsp;Intermediate or Subordinate CA Certificate Profile
 
 | **Field** |       |       | **Value**                             |
 | :-------- | :---: | :---: | :-------------------------------     |

@@ -1,10 +1,9 @@
 ---
 layout: default
-title: PIV-I Digital Signature
+navtitle: PIV-I Digital Signature
+title: Worksheet 8 - PIV-I Digital Signature Certificate Profile
 permalink: profiles/pividigsignature/
 ---
-
-## Worksheet 8:&nbsp;&nbsp;PIV-I Digital Signature Certificate Profile
 
 | **Field** |       |       | **Value**                             |
 | :-------- | :---: | :---: | :-------------------------------     |

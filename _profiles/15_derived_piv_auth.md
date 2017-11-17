@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Derived PIV Authentication
+navtitle: Derived PIV Authentication
+title: Worksheet 15 - Derived PIV Authentication Certificate Profile
 permalink: profiles/derivedpivauth/
 ---
-
-## Worksheet 15:&nbsp;&nbsp;Derived PIV Authentication Certificate Profile
 
 | **Field** |       |       | **Value**                             |
 | :-------- | :---: | :---: | :-------------------------------     |

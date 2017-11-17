@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Key Management
+navtitle: Key Management
+title: Worksheet 9 - Key Management Certificate Profile
 permalink: profiles/keymanagement/
 ---
-
-## Worksheet 9: **_End Entity??_** Key Management Certificate Profile
 
 | **Field** |       |       | **Value**                             |
 | :-------- | :---: | :---: | :-------------------------------     |

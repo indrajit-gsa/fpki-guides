@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Computing and Communications Devices
+navtitle: Computing and Communications Devices
+title: Worksheet 19 - Computing and Communications Devices Certificate Profile
 permalink: profiles/devices/
 ---
-
-## Worksheet 19:&nbsp;&nbsp;Computing and Communications Devices Certificate Profile
 
 | **Field** |       |       | **Value**                             |
 | :-------- | :---: | :---: | :-------------------------------     |

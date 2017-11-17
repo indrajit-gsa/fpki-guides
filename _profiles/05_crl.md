@@ -1,10 +1,9 @@
 ---
 layout: default
-title: CRL Profile
+navtitle: CRL Profile
+title: Worksheet 5 - Certificate Revocation List (CRL) Certificate Profile
 permalink: profiles/crl/
 ---
-
-## Worksheet 5:&nbsp;&nbsp;Certificate Revocation List (CRL) Certificate Profile
 
 | **Field** |       |       | **Value**                             |
 | :-------- | :---: | :---: | :-------------------------------     |

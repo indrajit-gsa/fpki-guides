@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Common PIV Content-Signing
+navtitle: Common PIV Content-Signing
+title: Worksheet 17 - Common PIV Content-Signing Certificate Profile
 permalink: profiles/commonpivcontentsign/
 ---
-
-## Worksheet 17:&nbsp;&nbsp;Common PIV Content-Signing Certificate Profile
 
 | **Field** |       |       | **Value**                             |
 | :-------- | :---: | :---: | :-------------------------------     |

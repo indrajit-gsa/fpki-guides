@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Common Key Management
+navtitle: Common Key Management
+title: Worksheet 10 - Common Key Management Certificate Profile
 permalink: profiles/commonkeymgmt/
 ---
-
-## Worksheet 10:&nbsp;&nbsp;Common Key Management Certificate Profile
 
 | **Field** |       |       | **Value**                             |
 | :-------- | :---: | :---: | :-------------------------------     |

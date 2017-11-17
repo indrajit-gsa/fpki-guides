@@ -1,10 +1,9 @@
 ---
 layout: default
-title: PIV-I Content-Signing
+navtitle: PIV-I Content-Signing
+title: Worksheet 18 - PIV-I Content-Signing Certificate Profile
 permalink: profiles/pivicontentsign/
 ---
-
-## Worksheet 18:&nbsp;&nbsp;PIV-I Content-Signing Certificate Profile
 
 | **Field** |       |       | **Value**                             |
 | :-------- | :---: | :---: | :-------------------------------     |

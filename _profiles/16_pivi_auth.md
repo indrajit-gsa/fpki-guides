@@ -1,10 +1,9 @@
 ---
 layout: default
-title: PIV-I Authentication
+navtitle: PIV-I Authentication
+title: Worksheet 16 - PIV-I Authentication Certificate Profile
 permalink: profiles/piviauth/
 ---
-
-## Worksheet 16:&nbsp;&nbsp;PIV-I Authentication Certificate Profile
 
 | **Field** |       |       | **Value**                             |
 | :-------- | :---: | :---: | :-------------------------------     |
