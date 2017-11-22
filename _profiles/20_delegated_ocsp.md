@@ -2,7 +2,7 @@
 layout: default
 navtitle: Delegate OCSP Responder
 title: Worksheet 20 - Delegate OCSP Responder Certificate Profile
-permalink: profiles/delegateocsp/
+permalink: profiles/delegatedocsp/
 ---
 
 | **Field** |       |       | **Value**                             |
