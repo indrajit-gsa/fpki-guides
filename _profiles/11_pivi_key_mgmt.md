@@ -2,7 +2,7 @@
 layout: default
 navtitle: PIV-I Key Management
 title: Worksheet 11 - PIV-I Key Management Certificate Profile
-permalink: /_profiles/pivikeymgmt/
+permalink: profiles/pivikeymgmt/
 ---
 
 | **Field** |       |       | **Value**                             |
