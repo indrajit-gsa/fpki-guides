@@ -4,18 +4,20 @@ title: Certificate Profiles
 permalink: /certprofiles/
 ---
 
-These profiles specify the unique parameter settings for X.509 v3 certificates and v2 certificate revocation list (CRL) extensions issued under the _X.509 Certificate Policy For The U.S. Federal PKI Common Policy Framework_ (aka, _Common Policy CP_). Current updates to these profiles include:
-* Revised profile fields, extensions, and values.<!--Validate this with Wendy.-->
-* Guidance for certificates issued under policies cross-certified with the Federal Bridge Certification Authority (FBCA).
-* Formats and semantics from RFC 5280<sup>[1](#1)</sup> to maximize interoperability across federal and external PKI communities. 
+Certificate profile formats and semantics are defined by X.509 and further described in RFC 5280.<sup>[1](#1)</sup> The Federal Public Key Infrastructure (FPKI) profiles (linked below) specify the unique, detailed parameter settings for X.509 v3 certificates and v2 certificate revocation lists (CRLs) issued under the _X.509 Certificate Policy For The U.S. Federal PKI Common Policy Framework_ (aka, _Common Policy CP_). They also give guidance for those issued under other Certificate Policies that are cross-certified with the Federal Bridge Certification Authority (FBCA). Any FPKI deviations from the RFC 5280-specified formats are noted in the profiles.
 
-Eighteen (18) certificate profiles covered by the _Common Policy CP_ are defined, as well as two profiles for the Online Certificate Status Protocol (OCSP) Responses and Certificate Revocation Lists (CRLs).
+Eighteen (18) certificate profiles covered by the _Common Policy CP_ are defined, as well as profiles for the Online Certificate Status Protocol (OCSP) Responses and Certificate Revocation Lists (CRLs).
+
+------
+**Wendy's proposed wording of para. 2:** These profiles have been updated to simplify the format while retaining information about what extensions are required and a high level description of acceptable values.
+Certificate formats and semantics are defined in X.509, as further described in RFC 52801.  These profiles state where they deviate from the profiles defined in RFC 5280.
+ **<Is the phrase, "detailed parameter settings?>** equal to **"what extensions are required and a high level description of acceptable values"?** **<If not, replace "detailed parameter settings" above with "required extensions and detailed descriptions of acceptable values.">**
 
 ## Certificate and Extensions Profile Worksheets
 
-The new profile worksheets are linked below. These will be published in the upcoming _X.509 Certificate and Certificate Revocation List (CRL) Extensions Profile for the Shared Service Providers (SSP) Program, Federal Bridge, and PIV-I_.
+The FPKI profile worksheets will be published in the upcoming _X.509 Certificate and Certificate Revocation List (CRL) Extensions Profile for the Shared Service Providers (SSP) Program, Federal Bridge, and PIV-I_.
 
-The [Worksheet Numbers Traceability Matrix](#worksheet-numbers-traceability-matrix) maps the past-to-current profile worksheet numbering.  
+The [Worksheet Numbers Traceability Matrix](#worksheet-numbers-traceability-matrix) maps the past-to-current profile worksheet numbering. (**Note:**&nbsp;&nbsp;Some profile worksheet titles have changed.)
 
 ### Certification Authority (CA) 
  
@@ -61,12 +63,12 @@ The [Worksheet Numbers Traceability Matrix](#worksheet-numbers-traceability-matr
 <!--Historical profile worksheet naming for 8-13+15 doesn't match current worksheet naming. Validate with Wendy next week.-->
 ## Worksheet Numbers Traceability Matrix
 
-| **Certificate Profile**           | **Shared<br />Service<br />Provider<br />(SSP)<sup>[2](#2)</sup> <br />**  | **Federal<br />Bridge<br />Certification<br />Authority<br />(FBCA)<sup>[3](#3)</sup> <br />**     | **Personal<br />Identity<br />Verification<br />Interoperable<br />(PIV-I)<sup>[4](#4)</sup>**     | **Current<br />**   |
+| **Certificate Profile**           | **Shared<BR>Service<BR>Provider<BR>(SSP)<sup>[2](#2)</sup> <BR>**  | **Federal<BR>Bridge<BR>Certification<BR>Authority<BR>(FBCA)<sup>[3](#3)</sup> <BR>**     | **Personal<BR>Identity<BR>Verification<BR>Interoperable<BR>(PIV-I)<sup>[4](#4)</sup>**     | **Current<BR>**   |
 | :----------------------------------  | :---------:  | :-----------:    | :-----------:      | :-----------:      |
-| Self-Signed CA                       | 1            | 1                |               | 1             |
-| Key Rollover CA                      | 2             | 2               |  1            | 2             |
-| Peer-to-Peer Cross-Certificate       | 3             | 3                |  2            | 3             |
-| Intermediate or Subordinate CA       | 3              | 3               |  2            | 4             |
+| Self-Signed CA                       | 1            | 1                |               | [1]({{ site.baseurl }}/profiles/selfsignedca/)             |
+| Key Rollover CA                      | 2             | 2               |  1            | [2]({{ site.baseurl }}/profiles/keyrolloverca/             |
+| Peer-to-Peer Cross-Certificate       | 3             | 3                |  2            | [3]({{ site.baseurl }}/profiles/p2pcrosscert/)             |
+| Intermediate or Subordinate CA       | 3              | 3               |  2            | [4]({{ site.baseurl }}/profiles/intorsubca/)             |
 | CRL                                  | 4              | 4               |  3            | 5             |
 | End Entity Signature       |                | 5        |                 | 6             |
 | Common End Entity Signature       | 5              |              |               | 7             |
