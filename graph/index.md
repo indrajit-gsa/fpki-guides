@@ -1,3 +1,10 @@
+---
+layout: default
+title: FPKI Graph
+collection: grpah
+permalink: /graph/
+---        
+        
         <link rel="stylesheet" type="text/css" href="styles/graphstyle.css">
         <link rel="stylesheet" type="text/css" href="styles/gexfjs.css" />
         <link rel="stylesheet" type="text/css" href="styles/jquery-ui-1.10.3.custom.min.css" />
