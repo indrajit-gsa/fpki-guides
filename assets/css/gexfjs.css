@@ -15,8 +15,9 @@ body {
 }
 
 .gradient {
-    background-color: #f0f0f8; 
+    /*background-color: #f0f0f8; 
     background-image: -webkit-radial-gradient(#ffffff, #d8d8e0); background-image: -moz-radial-gradient(#ffffff, #d8d8e0);
+    */
 }
 
 /* EN HAUT */
@@ -100,13 +101,15 @@ h1 {
 
 
 #carte {
-    position: absolute; left: 0px;
+   /* position: absolute;*/
+    left: 0px;
 }
 
 /* ZOOM IN OUT */
 
 #ctlzoom {
-    position: absolute; left: 5px; bottom: 5px; list-style: none; padding: 0; margin: 0;
+    /*position: absolute;*/
+    left: 5px; bottom: 5px; list-style: none; padding: 0; margin: 0;
 }
 
 #ctlzoom li {
@@ -189,7 +192,7 @@ h1 {
 /* COLONNE DE GAUCHE */
 
 #leftcolumn {
-    position: absolute; 
+    /*position: absolute; */
     top: 160px; 
     bottom: 0px; 
     left: -250px; 
@@ -203,7 +206,7 @@ h1 {
 /* GESTION DE LA BARRE DE GAUCHE */
 
 #unfold {
-    position: absolute; 
+   /* position: absolute; */
     top: 16px; 
     right: -14px; 
     width: 12px; 
@@ -242,7 +245,7 @@ h1 {
 /* ZONE GAUCHE */
 
 #leftcontent {
-    position: absolute; 
+   /* position: absolute; */
     left: 0; 
     top: 0; 
     bottom: 0; 
@@ -293,7 +296,7 @@ a:hover {
 /* AUTOCOMPLETE */
 
 #autocomplete {
-    position: absolute; display: none; padding: 0; margin: 0;
+   /* position: absolute;*/ display: none; padding: 0; margin: 0;
     border-style: none solid; border-color: #ccc; border-width: 1px;
 }
 
