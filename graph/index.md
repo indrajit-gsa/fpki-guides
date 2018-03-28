@@ -1,13 +1,6 @@
-﻿<!DOCTYPE html>
-<html>
-    <head>
-        <title>FPKI Graph | Federal Public Key Infrastructure Guides</title>		
-        
-        <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
         <link rel="stylesheet" type="text/css" href="styles/graphstyle.css">
         <link rel="stylesheet" type="text/css" href="styles/gexfjs.css" />
         <link rel="stylesheet" type="text/css" href="styles/jquery-ui-1.10.3.custom.min.css" />
-        <link rel="shortcut icon" href="favicon.ico">
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
         <script type="text/javascript">
         // Fallback in case JQuery CDN isn't available
@@ -19,8 +12,6 @@
         <script type="text/javascript" src="js/jquery-ui-1.10.3.custom.min.js"></script>
         <script type="text/javascript" src="js/gexfjs.js"></script>
         <script type="text/javascript" src="config.js"></script>		
-    </head>
-    <body>
             
         <header class="usa-site-header" role="banner">
           <div class="usa-disclaimer">
@@ -92,5 +83,3 @@
             </div>
             <div id="leftcontent"></div>
         </div>
-    </body>
-</html>
