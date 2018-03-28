@@ -96,7 +96,7 @@ h1 {
 /* AU CENTRE */
 
 #zonecentre {
-    position: fixed; top: 45px; bottom: 0; left: 0; right: 0; overflow: hidden;
+   /* position: fixed; */top: 45px; bottom: 0; left: 0; right: 0; overflow: hidden;
 }
 
 
