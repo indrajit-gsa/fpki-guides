@@ -35,7 +35,7 @@ navbar:
 markdown: kramdown
 
 # Plugins
-plugins:
+gems:
   - FileFilters
 
 #kramdown:
