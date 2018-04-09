@@ -34,6 +34,10 @@ navbar:
 # Build settings
 markdown: kramdown
 
+# Plugins
+plugins:
+  - FileFilters
+
 #kramdown:
 #  input: GFM
 # syntax_highlighter: rouge
